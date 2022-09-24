@@ -20,6 +20,13 @@ Flutter source project: https://github.com/mibi2007/chichvirus-flutter
 
 Web Demo: https://mibi-demo.web.app/chichvirus
 
+Test account:
+
+```
+id: player1@te.st / player1@te.st / player1@te.st
+pass: 111111
+```
+
 ### Serverless - Firebase
 
 - Firebase Auth helps create account easily and I set one more user property is AccountId which will be use later with smart contract call.
