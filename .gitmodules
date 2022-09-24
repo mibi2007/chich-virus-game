@@ -1,0 +1,9 @@
+[submodule "chichvirus"]
+	path = chichvirus
+	url = d:\\Documents\\chich_virus\\source\\chichvirus
+[submodule "firebase"]
+	path = firebase
+	url = d:\\Documents\\chich_virus\\source\\firebase
+[submodule "game-contract"]
+	path = game-contract
+	url = d:\\Documents\\chich_virus\\source\\game-contract
